@@ -27,7 +27,7 @@ public class XSS {
     @RequestMapping("/reflect")
     @ResponseBody
     public static String reflect(String xss) {
-        return xss;
+        return encode(xss);
     }
 
     /**
