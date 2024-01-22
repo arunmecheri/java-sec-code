@@ -1,4 +1,4 @@
-# Java Sec Code 
+# Java Sec Code
 
 Java sec code is a very powerful and friendly project for learning Java vulnerability code.
 
@@ -6,7 +6,7 @@ Java sec code is a very powerful and friendly project for learning Java vulnerab
 
 ## Introduce
 
-This project can also be called Java vulnerability code. 
+This project can also be called Java vulnerability code.
 
 Each vulnerability type code has a security vulnerability by default unless there is no vulnerability. The relevant fix code is in the comments or code. Specifically, you can view each vulnerability code and comments.
 
